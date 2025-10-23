@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+H8CeE34zOw=",
+  "dgSpecHash": "04iGpfBa17g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

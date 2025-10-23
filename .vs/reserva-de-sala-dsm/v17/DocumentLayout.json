@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\sala\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\sala\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\sala\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\sala\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\sala\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\sala\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\sala\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\sala\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\desktop\\nova reserva de sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\views\\sala\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EB804B-3689-491B-AF17-33CCAA83313F}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\sala\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T00:27:11.311Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T01:03:57.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Delete.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Sala\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Delete.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Sala\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:58:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Edit.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Sala\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Edit.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Sala\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:56:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Create.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Sala\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Create.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Sala\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:47:34.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Details.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Sala\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Details.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Sala\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:40:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Index.cshtml",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Views\\Sala\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Views\\Sala\\Index.cshtml",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Views\\Sala\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:27:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Controllers\\SalaController.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Controllers\\SalaController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova Reserva de Sala\\reserva-de-sala-dsm-corrigida\\reserva-de-sala-dsm\\Controllers\\SalaController.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Controllers\\SalaController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T00:21:03.979Z",
+              "WhenOpened": "2025-10-23T00:09:53.419Z",
               "EditorCaption": ""
             }
           ]

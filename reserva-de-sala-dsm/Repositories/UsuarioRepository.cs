@@ -21,7 +21,7 @@ namespace reserva_de_sala_dsm.Repositories
 
         public async Task<Usuario> GetByEmailAsync(string email)
         {
-            return await _context.Usuarios.SingleOrDefaultAsync(u => email == email);
+            return await _context.Usuarios.SingleOrDefaultAsync(u => u.Email == email); //estava comparando (u => email == email) e sempre devolve true
         }
         public async Task AddAsync(Usuario usuario)
         {
