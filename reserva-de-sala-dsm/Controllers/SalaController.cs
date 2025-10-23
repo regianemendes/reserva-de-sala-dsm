@@ -120,7 +120,7 @@ namespace reserva_de_sala_dsm.Controllers
         {
             try
             {
-                await _salaService.DeleteSalaAsync(id);
+                await _salaService.DeleteSalasAsync(id);
                 TempData["SucessMessage"] = "Sala foi excluída com sucesso!";
             }
             catch(Exception ex)
